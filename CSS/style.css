@@ -1,0 +1,87 @@
+.header{
+height: 150px;
+width: 200px;
+color: red;
+}
+.aside{
+    height: 150px;
+    width: 200px;
+    color: red;
+    }
+
+.navigation{
+    margin: 10px;
+    height: 75px;
+    /*width: 1330px ;*/
+    background-color: red;
+    position: relative;
+}
+.main
+{
+    display: flex;
+    margin: 10px;
+    
+}
+.picture
+{
+    height: 300px;
+    width: 300px;
+    
+    margin-right:50px;
+}
+#image
+{
+    height: 300px;
+    width: 300px;  
+    border-radius: 15px;
+   
+}
+.mainPara
+{
+    height: 300px;
+    width: auto;
+    font-size: 50px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 0;
+}
+
+#para1
+{
+    margin: 0;
+}
+.paragraph
+{
+    display: flex;
+    margin: 10px;
+    
+}
+.subPara
+{
+    
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+#para2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer
+{
+    height: 75px;
+    display: flex;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.subFooter1{
+    background-color: aqua;
+    width: 50%;
+}
+.subFooter2{
+    background-color: green;
+    width: 50%;
+}
